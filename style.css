@@ -232,7 +232,7 @@ nav {
 
         
 
- @media (min-width: 0px) and (max-width: 570px){
+ @media screen and (min-width: 0px) and (max-width: 570px){
 
     #root {
         width: 100%;
@@ -306,7 +306,7 @@ nav {
 
 }
 
-@media (min-width: 571px) and (max-width: 999px){
+@media screen and (min-width: 571px) and (max-width: 999px){
 
     #root {
         width: 100%;
